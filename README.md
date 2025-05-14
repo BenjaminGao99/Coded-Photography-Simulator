@@ -1,5 +1,8 @@
 Coded Exposure Photography Tool
 
+![alt text](https://github.com/BenjaminGao99/Coded-Photography-Simulator/blob/main/output/aligned_reference_angle0.0.png?raw=true)
+![alt text](https://github.com/BenjaminGao99/Coded-Photography-Simulator/blob/main/output/deblurred_angle0.0.png?raw=true)
+
 This app simulates coded exposure blur as described in the paper "Coded Exposure Photography: Motion Deblurring using Fluttered Shutter" by Ramesh Raskar et al. The tool allows users to apply motion blur with various exposure codes to foreground objects and composite them onto background images.
 
 Files:
