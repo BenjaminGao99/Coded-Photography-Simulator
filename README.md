@@ -48,6 +48,7 @@ Phase 3: Deblurring
 - preview result
 - adjust regularization factor and deblur as many times as needed
 - save the deblurred image
+- PSNR is provided
 
 Requirements
 - Python 3.6+
