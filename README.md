@@ -27,7 +27,7 @@ Features
 
 Usage
 
-To start the ui app:
+Download the executable app from Releases, or run from command line:
 ```
 python run_app.py
 ```
